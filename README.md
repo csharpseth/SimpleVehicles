@@ -11,15 +11,13 @@ SimpleVehicles is a lightweight Unity package that provides a basic implementati
 
 ## Installation
 
-1. Select the **Code** drop down
-2. Select the **HTTPS** tab
-3. Copy the Repository URL
-4. Go to Unity
-5. At the top, select **Window** -> **Package Manager**
-6. In the top left, select the **(+)** Icon
-7. Select `Install Package from git URL...`
-8. Past the Repository URL
-9. Finally, click **Install**.
+1. Copy this Repository's URL
+2. Go to Unity
+3. At the top, select **Window** -> **Package Manager**
+4. In the top left, select the **(+)** Icon
+5. Select `Install Package from git URL...`
+6. Past the Repository URL
+7. Finally, click **Install**.
 
 ---
 
