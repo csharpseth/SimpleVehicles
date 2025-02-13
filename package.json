@@ -1,0 +1,21 @@
+{
+  "name": "com.mooshiegames.simplevehicles",
+  "version": "1.0.0",
+  "displayName": "Simple Vehicles",
+  "description": "Basic arcade style vehicle implementation using a single rigidbody.",
+  "unity": "2022.1",
+  "dependencies": {
+    "com.unity.inputsystem": "1.11.2"
+  },
+  "samples": [
+    {
+      "displayName": "Vehicle Demo",
+      "description": "Contains sample scene and assets showcasing an actual implementation of SimpleVehicles.",
+      "path": "Samples~/VehicleTesting"
+    }
+  ],
+  "author": {
+    "name": "Seth H.",
+    "url": "https://www.youtube.com/@codewithseth"
+  }
+}
