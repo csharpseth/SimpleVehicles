@@ -11,7 +11,7 @@
     {
       "displayName": "Vehicle Demo",
       "description": "Contains sample scene and assets showcasing an actual implementation of SimpleVehicles.",
-      "path": "Samples~/VehicleTesting"
+      "path": "Samples/VehicleTesting"
     }
   ],
   "author": {
